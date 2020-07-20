@@ -3338,73 +3338,73 @@ msgstr "新規リンクの追加"
 msgid "Sorry, you are not allowed to add links to this site."
 msgstr "このサイトにリンクを追加する権限がありません。"
 
-#: wp-admin/index.php:117
+#: wp-admin//:117
 msgid "Dismiss the welcome panel"
 msgstr "ウェルカムパネルを非表示"
 
-#: wp-admin/index.php:96
+#: wp-admin//:96
 msgid "<a href=\"https://codex.wordpress.org/Dashboard_Screen\">Documentation on Dashboard</a>"
 msgstr "<a href=\"https://wpdocs.osdn.jp/Dashboard_Screen\">ダッシュボードの解説</a>"
 
-#: wp-admin/index.php:84
+#: wp-admin//:84
 msgid "<strong>Welcome</strong> &mdash; Shows links for some of the most common tasks when setting up a new site."
 msgstr "<strong>ようこそ</strong> - 新しいサイトを設定する際によく行われるタスクへのリンクを表示します。"
 
 #. translators: %s: WordPress Planet URL
-#: wp-admin/index.php:80
+#: wp-admin//:80
 msgid "<strong>WordPress News</strong> &mdash; Latest news from the official WordPress project and the <a href=\"%s\">WordPress Planet</a>."
 msgstr "<strong>WordPress ニュース</strong> &mdash; 公式 WordPress プロジェクト、<a href=\"%s\">WordPress Planet</a> の最新ニュース。"
 
 #. translators: %s: WordPress Planet URL
-#: wp-admin/index.php:74
+#: wp-admin//:74
 msgid "<strong>WordPress News</strong> &mdash; Latest news from the official WordPress project, the <a href=\"%s\">WordPress Planet</a>, and popular plugins."
 msgstr "<strong>WordPress ニュース</strong> &mdash; 公式 WordPress プロジェクト、<a href=\"%s\">WordPress Planet</a>の最新ニュースと人気のプラグイン。"
 
-#: wp-admin/index.php:70
+#: wp-admin//:70
 msgid "<strong>Quick Draft</strong> &mdash; Allows you to create a new post and save it as a draft. Also displays links to the 5 most recent draft posts you've started."
 msgstr "<strong>クイックドラフト</strong> &mdash; 新規投稿を作成して下書きとして保存できます。また、最新の下書き5件へのリンクを表示します。"
 
-#: wp-admin/index.php:68
+#: wp-admin//:68
 msgid "<strong>Activity</strong> &mdash; Shows the upcoming scheduled posts, recently published posts, and the most recent comments on your posts and allows you to moderate them."
 msgstr "<strong>アクティビティ</strong> &mdash; 予約済み投稿、最近公開した投稿、あなたの投稿への最近のコメントを表示します。コメント承認を行うこともできます。"
 
-#: wp-admin/index.php:67
+#: wp-admin//:67
 msgid "<strong>At A Glance</strong> &mdash; Displays a summary of the content on your site and identifies which theme and version of WordPress you are using."
 msgstr "<strong>概要</strong> &mdash; サイト内のコンテンツの概要を表示し、利用中のテーマや WordPress のバージョンを特定します。"
 
-#: wp-admin/index.php:65
+#: wp-admin//:65
 msgid "The boxes on your Dashboard screen are:"
 msgstr "ダッシュボード画面に表示されるボックス:"
 
-#: wp-admin/index.php:57
+#: wp-admin//:57
 msgid "<strong>Box Controls</strong> &mdash; Click the title bar of the box to expand or collapse it. Some boxes added by plugins may have configurable content, and will show a &#8220;Configure&#8221; link in the title bar if you hover over it."
 msgstr "<strong>ボックスのコントロール</strong> &mdash; ボックスを開閉するにはタイトルバーをクリックしてください。プラグインが追加したボックスには設定可能なコンテンツが用意されているものもあり、その場合はタイトルバーをホバーすると「設定」リンクが表示されます。"
 
-#: wp-admin/index.php:56
+#: wp-admin//:56
 msgid "<strong>Drag and Drop</strong> &mdash; To rearrange the boxes, drag and drop by clicking on the title bar of the selected box and releasing when you see a gray dotted-line rectangle appear in the location you want to place the box."
 msgstr "<strong>ドラッグアンドドロップ</strong> &mdash; ボックスを並び替えるには、選んだボックスのタイトルバーをクリックしてドラッグアンドドロップし、ボックスを置きたい場所に灰色の点線で囲まれた長方形が見えたらボックスを放してください。"
 
-#: wp-admin/index.php:55
+#: wp-admin//:55
 msgid "<strong>Screen Options</strong> &mdash; Use the Screen Options tab to choose which Dashboard boxes to show."
 msgstr "<strong>表示オプション</strong> &mdash; 表示オプションを使ってどのダッシュボードボックスを表示するか選んでください。"
 
-#: wp-admin/index.php:54
+#: wp-admin//:54
 msgid "You can use the following controls to arrange your Dashboard screen to suit your workflow. This is true on most other administration screens as well."
 msgstr "以下のコントロールを使って、ワークフローに合わせたダッシュボード画面をカスタマイズできます。また、他のほとんどの管理画面でも同様の操作が可能です。"
 
-#: wp-admin/index.php:50
+#: wp-admin//:50
 msgid "Navigation"
 msgstr "ナビゲーション"
 
-#: wp-admin/index.php:46
+#: wp-admin//:46
 msgid "Links in the Toolbar at the top of the screen connect your dashboard and the front end of your site, and provide access to your profile and helpful WordPress information."
 msgstr "画面上部にあるツールバーのリンクでダッシュボードとサイトのフロントエンドがつながっており、プロフィールや役立つ WordPress 情報にアクセスできます。"
 
-#: wp-admin/index.php:45
+#: wp-admin//:45
 msgid "The left-hand navigation menu provides links to all of the WordPress administration screens, with submenu items displayed on hover. You can minimize this menu to a narrow icon strip by clicking on the Collapse Menu arrow at the bottom."
 msgstr "左側のナビゲーションメニューは WordPress のすべての管理画面へのリンクになっていて、マウスをホバーさせるとサブメニューの項目が表示されます。一番下のメニューを閉じる矢印をクリックすると、このメニューをアイコンだけが表示される縦に細長い状態に最小化することができます。"
 
-#: wp-admin/index.php:33
+#: wp-admin//:33
 msgid "Welcome to your WordPress Dashboard! This is the screen you will see when you log in to your site, and gives you access to all the site management features of WordPress. You can get help for any screen by clicking the Help tab above the screen title."
 msgstr "WordPress のダッシュボードへようこそ ! これはサイトにログインすると表示される画面で、ここから WordPress のすべてのサイト管理機能へアクセスできます。どの画面にいても画面のタイトルの上にあるヘルプタブをクリックすればヘルプ情報を得られます。"
 
@@ -5262,8 +5262,8 @@ msgstr "WordPress フォーラム"
 msgid "https://planet.wordpress.org/feed/"
 msgstr "https://ja.wordpress.org/support/forums/feed"
 
-#: wp-admin/includes/dashboard.php:1321 wp-admin/index.php:75
-#: wp-admin/index.php:81
+#: wp-admin/includes/dashboard.php:1321 wp-admin//:75
+#: wp-admin//:81
 msgid "https://planet.wordpress.org/"
 msgstr "https://ja.wordpress.org/support/"
 
@@ -10251,7 +10251,7 @@ msgstr "プラグインを有効化してインポートツールを実行"
 msgid "Successfully installed the plugin <strong>%s %s</strong>."
 msgstr "プラグイン <strong>%s %s</strong> のインストールが完了しました。"
 
-#. translators: %s: index.php
+#. translators: %s: /
 #: wp-admin/includes/class-theme-upgrader.php:466
 msgid "The theme is missing the %s file."
 msgstr "テーマに %s ファイルがありません。"
@@ -10806,7 +10806,7 @@ msgid "Grid Layout"
 msgstr "グリッドレイアウト"
 
 #: wp-admin/includes/theme.php:265 wp-admin/includes/theme.php:295
-#: wp-admin/includes/class-wp-screen.php:1129 wp-admin/index.php:61
+#: wp-admin/includes/class-wp-screen.php:1129 wp-admin//:61
 msgid "Layout"
 msgstr "レイアウト"
 
@@ -11584,7 +11584,7 @@ msgstr "ページとフィードの文字セット"
 #: wp-admin/comment.php:52 wp-admin/theme-editor.php:49
 #: wp-admin/plugin-editor.php:137 wp-admin/nav-menus.php:572
 #: wp-admin/update-core.php:586 wp-admin/options-permalink.php:46
-#: wp-admin/user-new.php:221 wp-admin/index.php:97 wp-admin/plugins.php:436
+#: wp-admin/user-new.php:221 wp-admin//:97 wp-admin/plugins.php:436
 #: wp-admin/themes.php:119 wp-admin/edit-comments.php:188 wp-admin/media.php:84
 #: wp-admin/revision.php:121 wp-admin/upload.php:67 wp-admin/upload.php:213
 #: wp-admin/edit-form-advanced.php:259 wp-admin/edit-form-advanced.php:275
@@ -11609,7 +11609,7 @@ msgstr "<a href=\"https://wpdocs.osdn.jp/Settings_Reading_SubPanel\">表示設�
 #: wp-admin/theme-editor.php:44 wp-admin/plugin-editor.php:134
 #: wp-admin/nav-menus.php:570 wp-admin/update-core.php:584
 #: wp-admin/options-permalink.php:43 wp-admin/user-new.php:219
-#: wp-admin/index.php:95 wp-admin/plugins.php:434 wp-admin/themes.php:117
+#: wp-admin//:95 wp-admin/plugins.php:434 wp-admin/themes.php:117
 #: wp-admin/edit-comments.php:184 wp-admin/media.php:82
 #: wp-admin/revision.php:119 wp-admin/upload.php:65 wp-admin/upload.php:211
 #: wp-admin/edit-form-advanced.php:257 wp-admin/edit-form-advanced.php:272
@@ -11670,7 +11670,7 @@ msgstr "この画面にはコンテンツの表示に影響する設定が含ま
 #: wp-admin/plugin-editor.php:118 wp-admin/nav-menus.php:529
 #: wp-admin/nav-menus.php:564 wp-admin/update-core.php:566
 #: wp-admin/options-permalink.php:20 wp-admin/user-new.php:201
-#: wp-admin/index.php:39 wp-admin/plugins.php:411 wp-admin/themes.php:82
+#: wp-admin//:39 wp-admin/plugins.php:411 wp-admin/themes.php:82
 #: wp-admin/edit-comments.php:167 wp-admin/media.php:73
 #: wp-admin/revision.php:115 wp-admin/upload.php:48 wp-admin/upload.php:191
 #: wp-admin/edit-form-advanced.php:280 wp-admin/custom-background.php:87

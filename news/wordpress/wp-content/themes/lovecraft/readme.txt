@@ -47,7 +47,7 @@ Source: https://github.com/dachcom-digital/jquery-doubletaptogo
 
 Version 1.28 (2018-12-20)
 -------------------------
-- Combined index.php, archive.php, and search.php into index.php
+- Combined /, archive.php, and search.php into /
 - Combined content.php and content-aside.php into content.php
 - Combined single.php and page.php into singular.php
 - Updated the full width page template to use the same code as singular.php

@@ -763,59 +763,59 @@ msgstr "サイトのユーザー一覧ナビゲーション"
 msgid "Filter site users list"
 msgstr "サイトのユーザー一覧を絞り込み"
 
-#: wp-admin/network/index.php:50
+#: wp-admin/network//:50
 msgid "<a href=\"https://codex.wordpress.org/Network_Admin\">Documentation on the Network Admin</a>"
 msgstr "<a href=\"https://wpdocs.osdn.jp/Network_Admin\">サイトネットワーク管理の解説</a>"
 
-#: wp-admin/network/index.php:44
+#: wp-admin/network//:44
 msgid "Quick Tasks"
 msgstr "クイックタスク"
 
-#: wp-admin/network/index.php:40
+#: wp-admin/network//:40
 msgid "To search for a site, <strong>enter the path or domain</strong>."
 msgstr "サイトを検索するには<strong>ドメインまたはパスを入力</strong>してください。"
 
-#: wp-admin/network/index.php:39
+#: wp-admin/network//:39
 msgid "To search for a user, <strong>enter an email address or username</strong>. Use a wildcard to search for a partial username, such as user&#42;."
 msgstr "ユーザーを検索するには<strong>メールアドレスまたはユーザー名</strong>を入力してください。user&#42; などのワイルドカードを利用してユーザー名の一部から検索することもできます。"
 
-#: wp-admin/network/index.php:38
+#: wp-admin/network//:38
 msgid "To search for a user or site, use the search boxes."
 msgstr "ユーザーまたはサイトを検索するには、検索ボックスを使用してください。"
 
-#: wp-admin/network/index.php:37
+#: wp-admin/network//:37
 msgid "To add a new site, <strong>click Create a New Site</strong>."
 msgstr "サイトを新しく追加するには<strong>新規サイトを作成</strong>をクリックしてください。"
 
-#: wp-admin/network/index.php:36
+#: wp-admin/network//:36
 msgid "To add a new user, <strong>click Create a New User</strong>."
 msgstr "ユーザーを新しく追加するには<strong>新規ユーザーを作成</strong>をクリックしてください。"
 
-#: wp-admin/network/index.php:35
+#: wp-admin/network//:35
 msgid "The Right Now widget on this screen provides current user and site counts on your network."
 msgstr "この画面の「現在の状況」は、サイトネットワーク内の現在のユーザーとサイト数を表示します。"
 
-#: wp-admin/network/index.php:27
+#: wp-admin/network//:27
 msgid "Modify global network settings"
 msgstr "サイトネットワーク全体設定を編集"
 
-#: wp-admin/network/index.php:26
+#: wp-admin/network//:26
 msgid "Update your network"
 msgstr "サイトネットワークを更新"
 
-#: wp-admin/network/index.php:25
+#: wp-admin/network//:25
 msgid "Install and activate themes or plugins"
 msgstr "テーマまたはプラグインのインストール・有効化"
 
-#: wp-admin/network/index.php:24
+#: wp-admin/network//:24
 msgid "Add and manage sites or users"
 msgstr "サイトまたはユーザーの追加・管理"
 
-#: wp-admin/network/index.php:23
+#: wp-admin/network//:23
 msgid "From here you can:"
 msgstr "ここでは以下のようなことができます。"
 
-#: wp-admin/network/index.php:22
+#: wp-admin/network//:22
 msgid "Welcome to your Network Admin. This area of the Administration Screens is used for managing all aspects of your Multisite Network."
 msgstr "サイトネットワーク管理画面へようこそ。この画面は、マルチサイトネットワーク向け各種設定の管理に使います。"
 

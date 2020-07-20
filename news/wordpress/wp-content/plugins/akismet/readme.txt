@@ -341,7 +341,7 @@ Upload the Akismet plugin to your blog, Activate it, then enter your [Akismet.co
 * Limit Akismet CSS and Javascript loading in wp-admin to just the pages that need it
 * Added author URL quick removal functionality
 * Added mShot preview on Author URL hover
-* Added empty index.php to prevent directory listing
+* Added empty / to prevent directory listing
 * Move wp-admin menu items under Jetpack, if it is installed
 * Purge old Akismet comment meta data, default of 15 days
 

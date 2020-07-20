@@ -10208,7 +10208,7 @@ msgstr "親テーマが見つかりません。「%s」の親テーマをイン�
 msgid "https://codex.wordpress.org/Child_Themes"
 msgstr "https://wpdocs.osdn.jp/Child_Themes"
 
-#. translators: 1: index.php, 2: Codex URL, 3: style.css
+#. translators: 1: /, 2: Codex URL, 3: style.css
 #: wp-includes/class-wp-theme.php:268
 msgid "Template is missing. Standalone themes need to have a %1$s template file. <a href=\"%2$s\">Child themes</a> need to have a Template header in the %3$s stylesheet."
 msgstr "テンプレートが不足しています。独立したテーマには %1$s テンプレートファイルが必要です。<a href=\"%2$s\">子テーマ</a>では %3$s スタイルシートにテンプレートヘッダーが必要です。"

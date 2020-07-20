@@ -180,7 +180,7 @@ msgstr "フッター2"
 msgid "Footer One"
 msgstr "フッター1"
 
-#: functions.php:181 index.php:21
+#: functions.php:181 /:21
 msgid "Page %s of %s"
 msgstr "%s / %sページ"
 

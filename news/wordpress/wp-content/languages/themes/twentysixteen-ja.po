@@ -338,15 +338,15 @@ msgstr[0] "「%2$s」への%1$s件のフィードバック"
 
 #: archive.php:53 template-parts/content.php:40
 #: template-parts/content-page.php:28 template-parts/content-single.php:30
-#: search.php:41 index.php:50 image.php:62
+#: search.php:41 /:50 image.php:62
 msgid "Page"
 msgstr "ページ"
 
-#: archive.php:52 search.php:40 index.php:49
+#: archive.php:52 search.php:40 /:49
 msgid "Next page"
 msgstr "次のページ"
 
-#: archive.php:51 search.php:39 index.php:48
+#: archive.php:51 search.php:39 /:48
 msgid "Previous page"
 msgstr "前のページ"
 

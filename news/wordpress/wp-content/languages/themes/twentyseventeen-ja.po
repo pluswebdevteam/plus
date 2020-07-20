@@ -71,7 +71,7 @@ msgstr "2カラムレイアウトが割り当てられると、ページタイ�
 msgid "Next Post"
 msgstr "次の投稿"
 
-#: index.php:27
+#: /:27
 msgid "Posts"
 msgstr "投稿"
 
@@ -274,7 +274,7 @@ msgstr "フッターソーシャルリンクメニュー"
 msgid "Comments are closed."
 msgstr "コメントは受け付けていません。"
 
-#: index.php:54 archive.php:50 search.php:47
+#: /:54 archive.php:50 search.php:47
 msgid "Page"
 msgstr "ページ"
 
@@ -286,11 +286,11 @@ msgstr "お探しのページが見つかりません。"
 msgid "It looks like nothing was found at this location. Maybe try a search?"
 msgstr "こちらには何もありません。検索をお試しください。"
 
-#: index.php:52 archive.php:48 search.php:45
+#: /:52 archive.php:48 search.php:45
 msgid "Previous page"
 msgstr "前のページ"
 
-#: index.php:53 archive.php:49 search.php:46
+#: /:53 archive.php:49 search.php:46
 msgid "Next page"
 msgstr "次のページ"
 

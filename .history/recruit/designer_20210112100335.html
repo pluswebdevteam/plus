@@ -180,6 +180,11 @@
               </a>
             </li>
             <li class="nav-item">
+              <a href="https://twitter.com/" class="nav-link">
+                <i class="fab fa-twitter font-medium"></i>
+              </a>
+            </li>
+            <li class="nav-item">
               <a href="https://youtube.com/" class="nav-link">
                 <i class="fab fa-youtube font-medium"></i>
               </a>
@@ -249,7 +254,7 @@
                     <tr>
                       <th>給与</th>
                       <td>
-                        <p>150,000円〜200,000円</p>
+                        <p>140,000円〜200,000円</p>
                         <p class="mb-0">※扶養手当</p>
                         <p class="mb-0">※精勤手当</p>
                         <p class="mb-0">※役職手当</p>
@@ -260,7 +265,7 @@
                       <th>試用期間</th>
                       <td>
                         <p>あり</p>
-                        <p class="mb-0">※3ヶ月：月給140,000円</p>
+                        <p class="mb-0">※3ヶ月：時給770円</p>
                       </td>
                     </tr>
                     <tr>
@@ -326,7 +331,7 @@
                     <tr>
                       <th>学歴</th>
                       <td>
-                        <p class="mb-0">高校卒業以上</p>
+                        <p class="mb-0">不問</p>
                       </td>
                     </tr>
                     <tr>
@@ -370,13 +375,13 @@
         <!-- Main layout -->
         <a
           class="nav next"
-          href="sales.html"
-          style="background-image: url(../img/cover/sales_cover.jpg)"
+          href="webdesigner.html"
+          style="background-image: url(../img/cover/web_cover.jpg)"
         ></a>
         <a
           class="nav prev"
-          href="index.html"
-          style="background-image: url(../img/cover/recruit_index_cover.jpg)"
+          href="sales.html"
+          style="background-image: url(../img/cover/sales_cover.jpg)"
         ></a>
       </div>
     </main>
@@ -491,34 +496,36 @@
           <div class="col-6 col-md-4 col-lg-3 mb-5">
             <h5>COMPANY</h5>
             <ul class="list-unstyled list">
-              <li><a href="about.html" class="text-dark ml-2">会社概要</a></li>
-              <li><a href="/works" class="text-dark ml-2">制作実績</a></li>
-              <li><a href="/members" class="text-dark ml-2">メンバー</a></li>
-              <li></li>
-            </ul>
-          </div>
-          <div class="col-6 col-md-4 col-lg-3 mb-5">
-            <h5>INFOMATION</h5>
-            <ul class="list-unstyled list">
-              <li><a class="text-dark ml-2">HPをリニューアルしました</a></li>
-              <li><a class="text-dark ml-2">採用情報を更新しました</a></li>
+              <li>
+                <a href="/about.html" class="text-dark ml-2 no-barba"
+                  >会社概要</a
+                >
+              </li>
+              <li>
+                <a href="/works" class="text-dark ml-2 no-barba">制作実績</a>
+              </li>
+              <li>
+                <a href="/members" class="text-dark ml-2 no-barba">メンバー</a>
+              </li>
             </ul>
           </div>
           <div class="col-12 col-md-4 col-lg-3 mb-5">
             <h5>RECRUIT</h5>
             <ul class="list-unstyled list">
-              <li><a href="/recruit" class="text-dark ml-2">採用情報</a></li>
+              <li>
+                <a href="/recruit" class="text-dark ml-2 no-barba">採用情報</a>
+              </li>
             </ul>
           </div>
           <div class="col-6 col-md-6 col-lg-3 d-md-block d-lg-block">
             <object
               type="image/svg+xml"
-              data="img/logo_b.svg"
+              data="../img/logo_b.svg"
               class="d-none d-md-block d-lg-block w-100"
             ></object>
             <object
               type="image/svg+xml"
-              data="img/logo_b.svg"
+              data="../img/logo_b.svg"
               class="d-block d-sm-none w-100"
             ></object>
             <ul class="mt-2 list-unstyled d-none d-lg-block">
@@ -532,6 +539,9 @@
               <a href="https://www.facebook.com/plus.agc7071/">
                 <i class="fab fa-facebook fa-2x"></i>
               </a>
+              <a href="https://twitter.com/3VAm5TLFpjHEFvx">
+                <i class="mx-3 fab fa-twitter fa-2x"></i>
+              </a>
               <a
                 href="https://www.youtube.com/channel/UCDGGWsob3prreT-jduyMBxw"
               >
@@ -542,6 +552,9 @@
           <div class="col-6 col-md-6 col-lg-3 d-md-block d-lg-none">
             <a href="https://www.facebook.com/plus.agc7071/">
               <i class="fab fa-facebook fa-2x"></i>
+            </a>
+            <a href="https://twitter.com/3VAm5TLFpjHEFvx">
+              <i class="mx-3 fab fa-twitter fa-2x"></i>
             </a>
             <a href="https://www.youtube.com/channel/UCDGGWsob3prreT-jduyMBxw">
               <i class="fab fa-youtube fa-2x"></i>
@@ -565,6 +578,7 @@
       type="text/javascript"
     ></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.1/TweenMax.min.js"></script>
+    <script src="js/nextprev.min.js"></script>
     <!-- JQuery -->
     <script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
     <!-- Bootstrap tooltips -->
@@ -578,7 +592,6 @@
       // Animations initialization
       new WOW().init();
     </script>
-    <script src="../js/nextprev.min.js"></script>
     <!-- Formrun -->
     <script src="https://sdk.form.run/js/v2/formrun.js"></script>
     <!-- Small Chat -->

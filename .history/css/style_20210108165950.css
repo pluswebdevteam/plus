@@ -11,90 +11,109 @@ header,
 html {
   height: 100%;
 }
+
 @media (min-width: 800px) and (max-width: 850px) {
   .navbar:not(.top-nav-collapse) {
     background: rgba(0, 0, 0, 0.2) !important;
   }
 }
+
 .navbar {
   background-color: rgba(0, 0, 0, 0.2);
 }
+
 .page-footer,
 .top-nav-collapse {
   background-color: rgba(0, 0, 0, 0.5);
 }
+
 @media only screen and (max-width: 768px) {
   .navbar {
     background-color: rgba(0, 0, 0, 0.5);
   }
 }
+
 .ls-s {
   letter-spacing: -2px;
 }
+
 @font-face {
   font-family: MkPOP;
   src: url(../font/MkPOP.ttf) format("truetype");
 }
+
 .mkpop {
   font-family: MkPOP;
 }
-/* ul.circleBehind a:after, */
-/* ul.circleBehind a:before { */
-/* position: absolute; */
-/* top: 22px; */
-/* left: 50%; */
-/* width: 50px; */
-/* height: 50px; */
-/* border: 4px solid #fff; */
-/* transform: translateX(-50%) translateY(15%) scale(0.1); */
-/* border-radius: 50%; */
-/* background: #fff; */
-/* content: ""; */
-/* opacity: 0; */
-/* transition: all 0.3s; */
-/* z-index: -1; */
-/* } */
-/* ul.circleBehind a:after { */
-/* border-width: 2px; */
-/* transition: all 0.4s; */
-/* } */
-/* ul.circleBehind a:hover:after, */
-/* ul.circleBehind a:hover:before { */
-/* opacity: 1; */
-/* transform: translateX(-50%) translateY(25%) scale(0.1); */
-/* } */
+
+ul.circleBehind a:after,
+ul.circleBehind a:before {
+  position: absolute;
+  top: 40px;
+  left: 49.1%;
+  width: 50px;
+  height: 50px;
+  border: 4px solid #fff;
+  transform: translateX(-50%) translateY(15%) scale(0.1);
+  border-radius: 50%;
+  background: #fff;
+  content: "";
+  opacity: 0;
+  transition: all 0.3s;
+  z-index: -1;
+}
+
+ul.circleBehind a:after {
+  border-width: 2px;
+  transition: all 0.4s;
+}
+
+ul.circleBehind a:hover:after,
+ul.circleBehind a:hover:before {
+  opacity: 1;
+  transform: translateX(-50%) translateY(25%) scale(0.1);
+}
+
 .fa-y i before:hover,
 .fa-y i:hover,
 .fa-y:hover {
   color: red;
 }
+
 .fa-f i before:hover,
 .fa-f i:hover,
 .fa-f:hover {
   color: #305097;
 }
+
 .fa-t i before:hover,
 .fa-t i:hover,
 .fa-t:hover {
   color: #00aced;
 }
+
 nav a:link {
   color: #fff;
 }
+
 object {
   pointer-events: none;
 }
+
 .bg-red {
   background-color: #cf131c !important;
 }
+
 .brand {
   color: #cf131c;
 }
+
 .section-title {
   position: relative;
   font-weight: 700;
   text-align: center;
 }
+
 .section-title:after {
   content: "";
   width: 30px;
@@ -105,10 +124,12 @@ object {
   margin-left: -15px;
   bottom: -20px;
 }
+
 .vertical-lines {
   height: 5vh;
   position: relative;
 }
+
 .vertical-lines:before {
   position: absolute;
   content: "";
@@ -117,15 +138,19 @@ object {
   height: 100%;
   left: 50%;
 }
+
 .lh-1 {
   line-height: 1em;
 }
+
 .lh-2 {
   line-height: 2em;
 }
+
 .lh-3 {
   line-height: 3em;
 }
+
 #about,
 #footer,
 #info,
@@ -135,10 +160,12 @@ object {
   margin-top: -100px;
   padding: 100px 0 50px;
 }
+
 .heading-title {
   position: relative;
   padding: 0.5em 1em 0.5em 1.5em;
 }
+
 .heading-title::after {
   position: absolute;
   top: 0.5em;
@@ -150,33 +177,42 @@ object {
   background-color: #181818;
   border-radius: 4px;
 }
-#page-top {
+
+#page-top,
+#recruit-pop {
   position: fixed;
   bottom: 20px;
-  right: 20px;
-  font-size: 80%;
 }
+
 .bg-navy {
   background-color: #1c2331;
 }
+
 .bg-super-light {
   background: #fcfcfc;
 }
+
 .fa-facebook {
   color: #3b5998;
 }
+
 .fa-twitter {
   color: #55acee;
 }
+
 .fa-youtube {
   color: #b31217;
 }
-.fa-instagram {
-  color: #cf2e92;
-}
+
 .list {
   border-left: solid 1px #ccc;
 }
+
+#page-top {
+  right: 20px;
+  font-size: 80%;
+}
+
 #page-top a {
   display: inline-block;
   width: 50px;
@@ -189,23 +225,25 @@ object {
   color: #fff;
   text-decoration: none;
 }
+
 #page-top a:hover {
   text-decoration: none;
   background: #fff;
   color: #000;
 }
+
 #main {
   background: url(../img/ourservices.png) bottom no-repeat;
 }
+
 #recruit-pop {
-  position: fixed;
-  bottom: 50px;
   width: 100px;
   height: 60px;
   left: 20px;
   background: #000;
   border-radius: 15px;
 }
+
 #recruit-pop a {
   position: relative;
   display: block;
@@ -213,6 +251,7 @@ object {
   height: 60px;
   text-decoration: none;
 }
+
 #recruit-pop a::after {
   content: "採用情報";
   font-size: 13px;

@@ -5,7 +5,149 @@
 <url>
   <loc>https://plus-agc.com/</loc>
   <priority>1.0</priority>
-  <lastmod>2021-01-19T16:27:43+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/about.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T08:58:35+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/recruit/sales.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:48+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/recruit/designer.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:48+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/members/sato-t.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:45+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/members/akagi-m.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:46+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/members/shiroto-m.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:45+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/members/shiroto-n.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:45+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/members/fukushi-k.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:46+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/members/narita-t.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:46+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/members/yamauchi-t.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:45+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/members/sannohe-c.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:46+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/works/printing.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:10+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/works/event.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:11+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/works/web.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:10+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/works/movie.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:04:10+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/contact.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-03-15T09:00:54+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com//</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://plus-agc.com/recruit//</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://plus-agc.com/works//</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://plus-agc.com/works</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://plus-agc.com/members</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://plus-agc.com/news</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://plus-agc.com/members//</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://plus-agc.com/recruit</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://plus-agc.com/works/shiroto-n.html</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://plus-agc.com/works/fukushi-k.html</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://plus-agc.com/works/yamauchi-t.html</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://plus-agc.com/works/</loc>
+  <priority>0.6</priority>
+  <lastmod>2019-03-15T09:04:10+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/members/</loc>
+  <priority>0.6</priority>
+  <lastmod>2019-03-15T09:06:12+09:00</lastmod>
+</url>
+<url>
+  <loc>https://plus-agc.com/news/</loc>
+  <priority>0.6</priority>
+</url>
+<url>
+  <loc>https://plus-agc.com/recruit/</loc>
+  <priority>0.6</priority>
+  <lastmod>2019-03-15T09:04:48+09:00</lastmod>
 </url>
 
 </urlset>

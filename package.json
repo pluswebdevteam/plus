@@ -3,25 +3,11 @@
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
-    "all": "run-p server watch:css",
-    "css:scss": "node-sass src/assets/scss/style.scss -o src/assets/css --source-map src/assets/css",
-    "css:postcss": "postcss src/assets/css/style.css -o src/assets/css/style.min.css",
-    "watch:css": "watch 'run-s css:scss css:postcss' ./src/assets/scss",
-    "server": "browser-sync start --server --files='src/assets/html/*.html, src/assets/css/*.css, src/assets/js/*.js' --startPath='src/assets/html'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "autoprefixer": "^10.4.2",
-    "browser-sync": "^2.27.7",
-    "cssnano": "^5.0.16",
-    "node-sass": "^7.0.1",
-    "npm-run-all": "^4.1.5",
-    "postcss-cli": "^9.1.0",
-    "watch": "^1.0.2"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/plus-agc-service-yamauchi/plus.git"

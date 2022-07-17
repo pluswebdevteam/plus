@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
-
+    "dev" : "reload"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +16,8 @@
     "url": "https://github.com/plus-agc-service-yamauchi/plus/issues"
   },
   "homepage": "https://github.com/plus-agc-service-yamauchi/plus#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "reload": "^3.2.0"
+  }
 }

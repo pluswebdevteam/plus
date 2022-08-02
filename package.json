@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
-    "dev" : "reload"
+    "start" : "reload"
   },
   "keywords": [],
   "author": "",
